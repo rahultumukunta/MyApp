@@ -1,30 +1,3 @@
-
-// import React, { useState,useEffect } from 'react'
-// import ListView from '../listView'
-
-// const Data = () => {
-
-//     const [lists, setList] = useState([])
-
-//     useEffect(() => {
-//         const datafetch = async ()=>{
-//          const response = await fetch('http://localhost:8080/data');
-//          const json = await response.json();
-//          console.log(json);
-//          setList(json)
-//         }
-//         datafetch()
-//      }, [])
-
-
-//   return (
-//     <ListView lists={lists}/>
-//   )
-// }
-
-// export default Data
-
-
 export const lists=[
     {
         title : "SO Test 1", 
