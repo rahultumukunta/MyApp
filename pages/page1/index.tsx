@@ -1,3 +1,4 @@
+// import Data from "@/src/containers/data";
 import ListView from "@/src/containers/listView";
 
 export default function Page1() {
